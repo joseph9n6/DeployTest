@@ -1,0 +1,41 @@
+{
+  "name": "ut-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leafy": "^0.0.3",
+    "ol": "^10.7.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-leaflet": "^5.0.0",
+    "react-router-dom": "^7.12.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@tailwindcss/postcss": "^4.1.17",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.22",
+    "globals": "^16.4.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.16",
+    "vite": "^7.1.7"
+  },
+  "description": "// Joseph: Tips til dere som vil teste ut Ut-ut-demo\r Tips: etter å ha lastet ned mappen og strukturen gjennom her/github dekstop. 1.Kjør npm install først. 2.kjør npm run dev. npm greiene skal kjører i vs codes in terminal. bytt terminalen fra powershell til cdm. Hvis ikke dette funker så har du kanskje ikke installert node.js og Git. Sørg også at inni VS CODE terminalen at din mappestruktur er inni UT-ut-demo.",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
